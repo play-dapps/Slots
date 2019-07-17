@@ -1,45 +1,45 @@
 .slot0 {
-  background-image: url("/img/slot0.png");
+  background-image: url("img/slot0.png");
 }
 
 .slot0_s {
-  background-image: url("/img/slot0_s.png");
+  background-image: url("img/slot0_s.png");
 }
 
 .slot1 {
-  background-image: url("/img/slot1.png");
+  background-image: url("img/slot1.png");
 }
 
 .slot1_s {
-  background-image: url("/img/slot1_s.png");
+  background-image: url("img/slot1_s.png");
 }
 
 .slot2 {
-  background-image: url("/img/slot2.png");
+  background-image: url("img/slot2.png");
  }
 
 .slot2_s {
-  background-image: url("/img/slot2_s.png");
+  background-image: url("img/slot2_s.png");
 }
 
 .slot3 {
-  background-image: url("/img/slot3.png");
+  background-image: url("img/slot3.png");
 }
 
 .slot3_s {
-  background-image: url("/img/slot3_s.png");
+  background-image: url("img/slot3_s.png");
 }
 
 .slot4 {
-  background-image: url("/img/slot4.png");
+  background-image: url("img/slot4.png");
 }
 
 .slot4_s {
-  background-image: url("/img/slot4_s.png");
+  background-image: url("img/slot4_s.png");
 }
 
 .blank {
-  background-image: url("/img/blank.png");
+  background-image: url("img/blank.png");
 }
 
 #casino {
@@ -81,23 +81,23 @@
 	}
 	
 	.slot0 {
-	  background-image: url("/img/slot0_s.png");
+	  background-image: url("img/slot0_s.png");
 	}
 
 	.slot1 {
-	  background-image: url("/img/slot1_s.png");
+	  background-image: url("img/slot1_s.png");
 	}
 
 	.slot2 {
-	  background-image: url("/img/slot2_s.png");
+	  background-image: url("img/slot2_s.png");
 	}
 
 	.slot3 {
-	  background-image: url("/img/slot3_s.png");
+	  background-image: url("img/slot3_s.png");
 	}
 
 	.slot4 {
-	  background-image: url("/img/slot4_s.png");
+	  background-image: url("img/slot4_s.png");
 	}
 }
 
